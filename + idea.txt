@@ -1,0 +1,20 @@
++ idea
+   - problem statement
++ group/team
+   - leaders
+   - designers
+   - presenters
+   - developers
++ plan
+   - define requirements
+   - use cases
+   - ui design
+   - api design
+   - db design
+   - security
+   - deployments
++ challenges
+   - team work/collaboration
+   - preparations
+   - 
+
